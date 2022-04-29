@@ -23,6 +23,6 @@ const arrowAdd100 =(money) => money + 100;
 
 let letterCount= (string, single) => (string.split(single)).length - 1;
 
-console.log(letterCount("Word", "o"));
+console.log(letterCount("Words in strings", "o"));
 
 //split method creates strings into arrays shoutout to w3schools
